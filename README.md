@@ -1,5 +1,5 @@
 # Lecture-Slides-
-Computer vision Lecture
+Computer vision 
 
 This repository contains the lecture materials for the Computer Vision module at Department of Computing/Informatics Academic Year 2020-2021 delivered by computer science department. 
 
